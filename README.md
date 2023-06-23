@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Solid32 
-- 💻 I’m Python and Data Sciences skills 
+- 💻 Python and Data Sciences skills 
 - 📫 How to reach me guillaume.chinzi@hotmail.be
 
 <!---
