@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Solid32 
 - 💻 Python and Data Sciences skills 
-- 📫 How to reach me guillaume.chinzi@hotmail.be
+- 📫 How to reach me guillaume.chinzi@hotmail.be [Fr/En/It]
 
 <!---
 Solid32/Solid32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
