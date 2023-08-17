@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Solid32 
+- 👋 Hi, I’m Guillaume Chinzi @Solid32 
 - 💻 Python and Data Sciences skills 
 - 📫 How to reach me guillaume.chinzi@hotmail.be [Fr/En/It]
 
