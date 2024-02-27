@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Guillaume Chinzi @Solid32 
-- 💻 Python and Data Sciences skills 
+- 💻 Python, C# Data Sciences & Engineer  
 - 📫 How to reach me guillaume.chinzi@hotmail.be [Fr/En/It]
 
 <!---
